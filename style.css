@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid pink;
+    border-radius: 10px;
+    
+}
+
+
+body{
+    background-color: rgb(112, 32, 72);
+    text-align: center;
+
+    
+}
+header{
+    background-color: #999;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+.navb
+/* pour la bordure de l'image*/
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid burlywood;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 4px 10px rgba(59, 59, 168, 0.5);
+}
+nav a{
+    padding: 10px;
+    color: white;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
